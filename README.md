@@ -1,1 +1,1 @@
-#Certificate of HackerRank and Interns Certificates
+#Certificates of HackerRank and Interns Certificates
